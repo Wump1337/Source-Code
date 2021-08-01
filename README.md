@@ -1,4 +1,2 @@
 
-`npm i && node index.js`
-
-# Done 😸
+Will be Uploaded Soon
