@@ -17,3 +17,11 @@
 
 4. Will messages sync?
 > No, we don't want to break our stable build. That's why unstable build will get a dedicated database.
+
+5. Which one should I use?
+> Depends on you. Unstable has the latest bleeding edge features that, You wan't get on Stable!
+> But This might break up sometimes, We recommend Tester's testing the unstable branch & public use the stable branch...
+
+
+
+### © 2021 Xonia Developers
