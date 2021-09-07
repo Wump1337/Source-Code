@@ -1,1 +1,1 @@
-ETA. 30/40 Day's left
+# Stable Source code of server side. (Coming after 24Th September 2021)
