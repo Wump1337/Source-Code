@@ -4,6 +4,8 @@
 ### Welcome to Xonia Unstable!
 #### This Branch is like a preview to latest features!
 
+# FAQ
+
 1. What is this branch?
 > Well It's a unstable branch. we push our latest untable updates here that may have bug's and stuff like that.
 
