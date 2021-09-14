@@ -1,8 +1,5 @@
-## ⚠️⚠️ WARNING ⚠️⚠️ THIS IS A UNSTABLE PREVIEW BRANCH (Coming After 24Th September 2021)
-
-
-### Welcome to Xonia Unstable!
-#### This Branch is like a preview to latest features!
+### Xonia Unstable!
+#### This Branch is like a preview to latest Xonia features!
 
 # FAQ
 
