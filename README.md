@@ -4,7 +4,7 @@
 # FAQ
 
 - 1. What is this branch?
-> Well It's a unstable branch. we push our latest untable updates here that may have bug's and stuff like that.
+- > Well It's a unstable branch. we push our latest untable updates here that may have bug's and stuff like that.
 
 - 2. How can I test the unstable branch?
 > Via <a href="https://unstable.xoniaapp.com">Xonia Unstable Website</a>
