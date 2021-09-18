@@ -1,4 +1,4 @@
-### I was to lazy to remake it in react so i kinda made it wierd never mind i will recode the thing soon 🇨🇽
+### I was to lazy to fully remake it in react so i kinda made it wierd never mind i will recode the thing soon ⚛️
 
 # Getting Started with Create React App
 
