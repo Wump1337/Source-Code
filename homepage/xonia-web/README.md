@@ -1,3 +1,5 @@
+### I was to lazy to remake it in react so i kinda made it wierd never mind i will recode the thing soon 🇨🇽
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
