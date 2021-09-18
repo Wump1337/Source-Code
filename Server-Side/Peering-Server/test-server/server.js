@@ -6,14 +6,14 @@ const html =
 
 const socket = require("socket.io")(server, {
 	cors: {
-		origin: "https://google.com",
+		origin: "https://vc.xoniaapp.com",
 		methods: ["GET", "POST"]
 	}
 });
 
 app.use(cors());
 
-const PORT = process.env.PORT || 7000;
+const PORT = process.env.PORT || 6969;
 
 app.get('/', (req, res) => {
 	res.send(`${html}`);
